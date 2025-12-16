@@ -76,6 +76,12 @@ This is not a cipher to be cracked. It’s a **visual language of secrecy** — 
 Each input creates a unique visual fingerprint — a symbolic representation of the message’s structure, not its meaning.
 
 ---
+## visual Output
+
+[Screen Recording 2025-12-16 122631.mp4](Screen%20Recording%202025-12-16%20122631.mp4)
+
+![Screenshot 2025-12-16 142027.png](Screenshot%202025-12-16%20142027.png)
+---
 
 ## Why Glyphs?
 
